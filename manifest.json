@@ -1,0 +1,7 @@
+{
+  "name": "Window Control",
+  "description": "Custom component to control windows using curl commands",
+  "version": "0.0.1",
+  "required": ["homeassistant"],
+  "platforms": ["binary_sensor"]
+}
